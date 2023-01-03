@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.bestbyuinfo.CURDTestWithSteps" skipped="0" tests="1" time="15.61" timestamp="2023-01-03T20:01:50.307Z[Europe/London]"><testcase classname="com.bestbuy.bestbyuinfo.CURDTestWithSteps" name="Get all Products"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+io.restassured.internal.print.ResponsePrinter.print(ResponsePrinter.java:46)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:423)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:419)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:415)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.all(ValidatableResponseOptionsImpl.java:371)&#13;
+com.bestbuy.steps.ProductsSteps.getAllProducts(ProductsSteps.java:17)&#13;
+com.bestbuy.bestbyuinfo.CURDTestWithSteps.test01(CURDTestWithSteps.java:38)&#13;
+</system-err></testcase></testsuite>

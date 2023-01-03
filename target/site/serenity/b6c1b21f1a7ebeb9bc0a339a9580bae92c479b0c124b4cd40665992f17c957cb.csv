@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CURD test with steps","Update the product and verify the product information is updated","FAILURE","2023-01-02T21:03:34.748Z[Europe/London]","0.0","0.11"
